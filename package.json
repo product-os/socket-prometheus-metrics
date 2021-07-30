@@ -1,5 +1,5 @@
 {
-  "name": "@balena/socket.io-prometheus-metrics",
+  "name": "@balena/socket-prometheus-metrics",
   "version": "0.0.2",
   "description": "Prometheus metrics for socket.io",
   "author": "Josh Bowling <josh@balena.io>",
@@ -11,10 +11,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/product-os/socket.io-prometheus-metrics.git"
+    "url": "https://github.com/product-os/socket-prometheus-metrics.git"
   },
   "bugs": {
-    "url": "https://github.com/product-os/socket.io-prometheus-metrics/issues"
+    "url": "https://github.com/product-os/socket-prometheus-metrics/issues"
   },
   "main": "./dist/index.js",
   "typings": "./dist/index.d.ts",
