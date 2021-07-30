@@ -1,6 +1,6 @@
 {
   "name": "@balena/socket-prometheus-metrics",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Prometheus metrics for socket.io",
   "author": "Josh Bowling <josh@balena.io>",
   "license": "Apache-2.0",
@@ -52,6 +52,6 @@
     "pre-commit": "npx lint-staged"
   },
   "versionist": {
-    "publishedAt": "2021-07-30T03:19:19.940Z"
+    "publishedAt": "2021-07-30T04:46:57.196Z"
   }
 }
